@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Lindsay!
-- 👀 I’m interested in data analytics, research into new statistical models, and data storytelling
-- 🌱 Currently translating my statistical knowledge into applications in Python
+- 📚 I'm studying Statistics at Queen's University
+- 👀 I’m interested in advancing research into better statistical models for visualisation
+- 🌱 Currently busy.. doing everything and nothing at all
 
 <!---
 LinGrbic/LinGrbic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
